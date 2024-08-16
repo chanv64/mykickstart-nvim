@@ -1,0 +1,122 @@
+nvim init.lua
+cd .config/nvim/
+nvim .config/starship.toml
+eza -T .config/
+eza -T
+fzf
+nvim
+exit
+cd
+pwd
+cd ..
+cd test
+cd projects/
+ls
+clear
+ls .config/fish/
+ls .config/fis
+ls .config/
+cd fonts
+ls .fonts/
+rm window_size_cache.txt
+rm config.fish
+del config.fish
+nvim .config/fish/config.fish
+nvim config.fish
+diff config.fish .config/fish/config.fish
+diff
+ls -la .config/fish/config.fish
+ls -la
+ll
+tree
+nvim | fzf
+history
+nvim $(fzf)
+ddd
+vim neovim.install
+df
+du
+free
+du -sk -h ~/.config/
+du -sk -h ~/*
+rm -rf shell-color-scripts/
+ls shell-color-scripts/
+rm nvim-linux64.tar.gz
+rm -rf fonts/
+man du
+du -sk ~/*
+nvim main.py
+sudo apt install fzf
+nvim ~/.config/nvim/init.lua
+sudo apt install -y python3-venv
+sudo apt install pipenv
+pip install pipenv --user
+pip
+python --version
+pipenv
+pip3 install --user pipenv
+fg
+python
+sudo apt install python-is-python3
+sudo apt install python3-pip
+pip3
+mkdir test
+mkdir projects
+sudo ln -s /opt/nvim-linux64/bin/nvim /usr/local/bin/nvim
+nvim ./config.fish
+echo $PATH
+export PATH="$PATH:/opt/nvim-linux64/bin"
+which nvim
+ls /opt/nvim-linux64/bin
+!ex
+history | grep export
+cd ../lua
+cd doc
+cat README.md | less
+cat README.md
+cat .gitignore
+rm -rf .github/
+rm -rf .git
+pyright --version
+sudo npm install -g pyright
+sudo apt install nodejs npm
+sudo apt install ripgrep
+rg
+sudo apt install python3
+sudo apt install gcc
+git
+ls .config/nvim/
+set -x XDG_CONFIG_HOME $HOME/.config
+git clone https://github.com/nvim-lua/kickstart.nvim.git "$XDG_CONFIG_HOME/nvim"
+
+nvim neovim.install
+mkdir .config/nvim
+path
+ls /opt/nvim-linux64/
+sudo tar -C /opt -xzf nvim-linux64.tar.gz
+ls /opt
+cp /mnt/c/Users/chanv/Downloads/nvim-linux64.tar.gz .
+colorscript random
+vi .config/fish/config.fish
+sudo apt install zoxide
+colorscript -h
+colorscript
+sudo make install
+sudo apt install make
+cd shell-color-scripts/
+git clone https://gitlab.com/dwt1/shell-color-scripts.git
+sudo apt install eza
+curl -sS https://starship.rs/install.sh | sh
+cp config.fish ~/.config/fish/
+cp config.fish ~/
+cd /mnt/c/Users/chanv/Downloads/
+mount
+cat .wget-hsts
+wget https://gitlab.com/dwt1/dotfiles/-/raw/master/.config/fish/config.fish?ref_type=heads&inline=false
+cat .config/fish/config.fish
+cat .config/fish/
+vi .config/fish
+ls -la .config/fish
+echo $SHELL
+echo $0
+git clone https://github.com/ryanoasis/nerd-fonts
